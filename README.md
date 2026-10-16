@@ -22,7 +22,7 @@ A small HTML, CSS, and JavaScript app that reads a name and selected time of day
 
 ## Learning focus
 
-Exploring API-driven data handling, DOM updates, and user interaction through a weather lookup project.
+Continuing to strengthen JavaScript fundamentals, API-driven data handling, and responsive interface development.
 
 ## Contact
 
