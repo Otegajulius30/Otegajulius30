@@ -20,9 +20,9 @@ A frontend recreation of YouTube's homepage using HTML, CSS, and JavaScript. It 
 
 A small HTML, CSS, and JavaScript app that reads a name and selected time of day, then displays a matching greeting.
 
-## Currently building
+## Learning focus
 
-A weather lookup project to practise API-driven data handling, DOM updates, and user interaction.
+Exploring API-driven data handling, DOM updates, and user interaction through a weather lookup project.
 
 ## Contact
 
